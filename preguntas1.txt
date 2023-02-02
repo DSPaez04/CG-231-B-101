@@ -1,0 +1,17 @@
+Ejercicio 3.1
+1. ¿Que ocurre si los factores de escala son diferentes entre sı?
+   La figura u objeto que se va a escalar se deforma y pierde su proporcion ya que los 
+   factores de escalado no son iguales 
+   
+2. ¿Y si algun factor de escala es cero?
+    El objeto o figura se eliminaria ya que al multiplicarlo por sus cordernadas 
+    daria 0 osea quedaria un punto en (0,0,0)
+    
+3. ¿Que ocurre si uno o varios factores de escala son negativos?
+   Si son negativos la figura u el objeto se escalaria normalmente pero tambien se 
+   trasladaria a los cuadrantes negativos osea el 3 y 4 
+   
+4. ¿Y si el factor de escala esta entre cero y uno?
+ El objeto se encogeria al tal punto de desaparecer al llegar a cero normalmente
+ ya que si 1 es el 100 % los numeros menores de 1 serian porcentajes mas bajos por ejemplo el 0,5 
+ que seria el 50 % osea su tamaño disminuiria
